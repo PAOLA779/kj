@@ -1,0 +1,3 @@
+Línea 27: la clase MSDataGridLib.DataGrid del control dgpro no era una clase de control cargada.
+Línea 159: la clase MSDataGridLib.DataGrid del control DataGrid1 no era una clase de control cargada.
+Línea 224: la clase MSAdodcLib.Adodc del control ADODCINV no era una clase de control cargada.
